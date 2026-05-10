@@ -1,0 +1,364 @@
+{
+  "settings": {
+    "name": "Bella Vista",
+    "subtitle": "",
+    "logo": "",
+    "logoLetter": "M",
+    "heroVideo": "",
+    "colorPrimary": "#000000",
+    "colorAccent": "#ffffff",
+    "phone": "123",
+    "address": "abc",
+    "currency": "₺",
+    "password": "admin123",
+    "priceUpdateDate": "10.05.2026"
+  },
+  "categories": [
+    {
+      "id": "mozmb4heh1pac1",
+      "name": "Yiyecekler",
+      "icon": "",
+      "parentId": null,
+      "image": "yiyecekler.webp",
+      "order": 0
+    },
+    {
+      "id": "mozmbag6hvetb2",
+      "name": "İçecekler",
+      "icon": "",
+      "parentId": null,
+      "image": "icecekler.webp",
+      "order": 1
+    },
+    {
+      "id": "mozmbdiy307lrh",
+      "name": "Nargile",
+      "icon": "",
+      "parentId": null,
+      "image": "nargile.webp",
+      "order": 2
+    },
+    {
+      "id": "mozmxty530ov6d",
+      "name": "Kahvaltı",
+      "icon": "",
+      "parentId": "mozmb4heh1pac1",
+      "image": "kahvaltilogo.webp",
+      "order": 0
+    },
+    {
+      "id": "mozmy7qwnljo4y",
+      "name": "Sıcak İçecekler",
+      "icon": "",
+      "parentId": "mozmbag6hvetb2",
+      "image": "",
+      "order": 0
+    },
+    {
+      "id": "mozmye9knl13wc",
+      "name": "Soğuk İçecekler",
+      "icon": "",
+      "parentId": "mozmbag6hvetb2",
+      "image": "",
+      "order": 1
+    },
+    {
+      "id": "mozmymdmytxu4z",
+      "name": "Alkollü İçecekler",
+      "icon": "",
+      "parentId": "mozmbag6hvetb2",
+      "image": "",
+      "order": 2
+    },
+    {
+      "id": "mozmz03vc8qj8d",
+      "name": "Çorbalar",
+      "icon": "",
+      "parentId": "mozmb4heh1pac1",
+      "image": "corbalarlogo.webp",
+      "order": 1
+    },
+    {
+      "id": "mozpd0elfultgu",
+      "name": "Mezeler",
+      "icon": "",
+      "parentId": "mozmb4heh1pac1",
+      "image": "mezelogo.webp",
+      "order": 2
+    }
+  ],
+  "products": [
+    {
+      "id": "mozn200nrbdy7k",
+      "name": "Kahvaltı Tabağı",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "Beyaz Peynir, Taze Kaşar, Tulum Peyniri, Köy Peyniri,\nSiyah Zeytin, Yeşil Zeytin,\nBal, Reçel, Tereyağ,\nSigara Böreği, Sosis Tava,\nDomates, Salatalık, Sivri Biber, Karpuz, Haşlanmış Yumurta\n3 Adet Çay.\n* KAHVE TÜRLERİ EKSTRADIR.",
+      "price": 600,
+      "tag": "",
+      "available": true,
+      "image": "kahvaltitabagi.webp"
+    },
+    {
+      "id": "mozn2u3w4suc7j",
+      "name": "Serpme Kahvaltı",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "Beyaz Peynir, Taze Kaşar, Tulum Peyniri, Köy Peyniri Siyah Zeytin, Yeşil Zeytin, Reçel, Bal, Tereyağ,Kaymak,Patates Tava, Sigara Böreği, Paçanga Böreği, Sosis Tava,\nDilim Yumurtalı Ekmek, Domates, Salatalık,\nSivri Biber, Yeşillik, Karpuz, Haşlanmış Yumurta yada Sahanda Yumurta\nSınırsız Çay\n* SERPME KAHVALTI TEK KİŞİLİK SERVISİMIZ YOKTUR, EN AZ 2 KİŞİLİK SERVİS EDİLİR.\n* KAHVE TÜRLERİ EKSTRADIR",
+      "price": 1800,
+      "tag": "",
+      "available": true,
+      "image": "serpmekahvalti.webp"
+    },
+    {
+      "id": "mozn92rhufemai",
+      "name": "Sucuk Izgara (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 770,
+      "tag": "",
+      "available": true,
+      "image": "sucukizgara.webp"
+    },
+    {
+      "id": "mozna9u70ucge7",
+      "name": "Kuymak (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 420,
+      "tag": "",
+      "available": true,
+      "image": "kuymak.webp"
+    },
+    {
+      "id": "moznbq3d9ecnxq",
+      "name": "Sahanda Yumurta (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 190,
+      "tag": "",
+      "available": true,
+      "image": "sahandayumurta.webp"
+    },
+    {
+      "id": "mozndl9hua1p0s",
+      "name": "Kaşarlı Omlet (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 260,
+      "tag": "",
+      "available": true,
+      "image": "kasarliomlet.webp"
+    },
+    {
+      "id": "moznhx61lbnrb1",
+      "name": "Sebzeli Omlet (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 260,
+      "tag": "",
+      "available": true,
+      "image": "sebzeliomlet.webp"
+    },
+    {
+      "id": "moznmushlfrrzl",
+      "name": "Menemen (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 280,
+      "tag": "",
+      "available": true,
+      "image": "menemen.webp"
+    },
+    {
+      "id": "moznpjfr0rt6nt",
+      "name": "Sucuklu Yumurta (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 375,
+      "tag": "",
+      "available": true,
+      "image": "sucukluyumurta.webp"
+    },
+    {
+      "id": "mozo3c6l071i6p",
+      "name": "Söğüş Kahvaltılık",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 180,
+      "tag": "",
+      "available": true,
+      "image": "soguskahvaltilik.webp"
+    },
+    {
+      "id": "mozos13z7s2sf2",
+      "name": "Domates Çorbası",
+      "categoryId": "mozmz03vc8qj8d",
+      "desc": "",
+      "price": 230,
+      "tag": "",
+      "available": true,
+      "image": "domatescorbasi.webp"
+    },
+    {
+      "id": "mozouuvf63mbeb",
+      "name": "Süzme Mercimek Çorbası",
+      "categoryId": "mozmz03vc8qj8d",
+      "desc": "",
+      "price": 195,
+      "tag": "",
+      "available": true,
+      "image": "mercimekcorbasi.webp"
+    },
+    {
+      "id": "mozpk6na0bx2sc",
+      "name": "Beyaz Peynir Dilim",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 225,
+      "tag": "",
+      "available": true,
+      "image": "meze1.webp"
+    },
+    {
+      "id": "mozpkte7q0xhi7",
+      "name": "İtalyan Peynir Tabağı",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 900,
+      "tag": "",
+      "available": true,
+      "image": "meze2.webp"
+    },
+    {
+      "id": "mozplb6vp25o12",
+      "name": "Patlıcan Salata",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "meze3.webp"
+    },
+    {
+      "id": "mozpog6dcihmyv",
+      "name": "Patlıcan Soslu",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "meze4.webp"
+    },
+    {
+      "id": "mozpp6ebcifupg",
+      "name": "Süzme Yoğurt",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "meze5.webp"
+    },
+    {
+      "id": "mozprebuo1q0qc",
+      "name": "Cacık",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "meze6.webp"
+    },
+    {
+      "id": "mozprsf80mdbba",
+      "name": "Acılı Ezme",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "meze7.webp"
+    },
+    {
+      "id": "mozpt70855y21u",
+      "name": "Haydari",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "meze8.webp"
+    },
+    {
+      "id": "mozpubw6kmm8mf",
+      "name": "Kırmızı Biber",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "meze9.webp"
+    },
+    {
+      "id": "mozpxdkyggo3br",
+      "name": "Pancar Turşusu",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 274.99,
+      "tag": "",
+      "available": true,
+      "image": "meze10.webp"
+    },
+    {
+      "id": "mozpxx64qyywbj",
+      "name": "Fava",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 295,
+      "tag": "",
+      "available": true,
+      "image": "meze11.webp"
+    },
+    {
+      "id": "mozpz1biejhjoa",
+      "name": "Girit Ezmesi",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "meze12.webp"
+    },
+    {
+      "id": "mozq1pzcu42i8q",
+      "name": "Atom",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "meze13.webp"
+    },
+    {
+      "id": "mozq2xzfl7ivqy",
+      "name": "Arnavut Ciğeri",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 650,
+      "tag": "",
+      "available": true,
+      "image": "meze14.webp"
+    },
+    {
+      "id": "mozq4kdmu45cc7",
+      "name": "Yaprak Sarma",
+      "categoryId": "mozpd0elfultgu",
+      "desc": "",
+      "price": 305,
+      "tag": "",
+      "available": true,
+      "image": "meze15.webp"
+    }
+  ],
+  "exportedAt": "2026-05-10T12:18:17.390Z",
+  "version": 2
+}
