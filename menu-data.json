@@ -1,0 +1,185 @@
+{
+  "settings": {
+    "name": "Bella Vista",
+    "subtitle": "",
+    "logo": "",
+    "logoLetter": "M",
+    "heroVideo": "",
+    "colorPrimary": "#000000",
+    "colorAccent": "#ffffff",
+    "phone": "123",
+    "address": "abc",
+    "currency": "₺",
+    "password": "admin123"
+  },
+  "categories": [
+    {
+      "id": "mozmb4heh1pac1",
+      "name": "Yiyecekler",
+      "icon": "",
+      "parentId": null,
+      "image": "yiyecekler.webp",
+      "order": 0
+    },
+    {
+      "id": "mozmbag6hvetb2",
+      "name": "İçecekler",
+      "icon": "",
+      "parentId": null,
+      "image": "icecekler.webp",
+      "order": 1
+    },
+    {
+      "id": "mozmbdiy307lrh",
+      "name": "Nargile",
+      "icon": "",
+      "parentId": null,
+      "image": "nargile.webp",
+      "order": 2
+    },
+    {
+      "id": "mozmxty530ov6d",
+      "name": "Kahvaltı",
+      "icon": "",
+      "parentId": "mozmb4heh1pac1",
+      "image": "",
+      "order": 0
+    },
+    {
+      "id": "mozmy7qwnljo4y",
+      "name": "Sıcak İçecekler",
+      "icon": "",
+      "parentId": "mozmbag6hvetb2",
+      "image": "",
+      "order": 0
+    },
+    {
+      "id": "mozmye9knl13wc",
+      "name": "Soğuk İçecekler",
+      "icon": "",
+      "parentId": "mozmbag6hvetb2",
+      "image": "",
+      "order": 1
+    },
+    {
+      "id": "mozmymdmytxu4z",
+      "name": "Alkollü İçecekler",
+      "icon": "",
+      "parentId": "mozmbag6hvetb2",
+      "image": "",
+      "order": 2
+    },
+    {
+      "id": "mozmz03vc8qj8d",
+      "name": "Çorbalar",
+      "icon": "",
+      "parentId": "mozmb4heh1pac1",
+      "image": "",
+      "order": 1
+    }
+  ],
+  "products": [
+    {
+      "id": "mozn200nrbdy7k",
+      "name": "Kahvaltı Tabağı",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "Beyaz Peynir, Taze Kaşar, Tulum Peyniri, Köy Peyniri,\nSiyah Zeytin, Yeşil Zeytin,\nBal, Reçel, Tereyağ,\nSigara Böreği, Sosis Tava,\nDomates, Salatalık, Sivri Biber, Karpuz, Haşlanmış Yumurta\n3 Adet Çay.\n* KAHVE TÜRLERİ EKSTRADIR.",
+      "price": 600,
+      "tag": "",
+      "available": true,
+      "image": "kahvaltitabagi.webp"
+    },
+    {
+      "id": "mozn2u3w4suc7j",
+      "name": "Serpme Kahvaltı",
+      "categoryId": "mozmb4heh1pac1",
+      "desc": "Beyaz Peynir, Taze Kaşar, Tulum Peyniri, Köy Peyniri Siyah Zeytin, Yeşil Zeytin, Reçel, Bal, Tereyağ,Kaymak,Patates Tava, Sigara Böreği, Paçanga Böreği, Sosis Tava,\nDilim Yumurtalı Ekmek, Domates, Salatalık,\nSivri Biber, Yeşillik, Karpuz, Haşlanmış Yumurta yada Sahanda Yumurta\nSınırsız Çay\n* SERPME KAHVALTI TEK KİŞİLİK SERVISİMIZ YOKTUR, EN AZ 2 KİŞİLİK SERVİS EDİLİR.\n* KAHVE TÜRLERİ EKSTRADIR",
+      "price": 1800,
+      "tag": "",
+      "available": true,
+      "image": "serpmekahvalti.webp"
+    },
+    {
+      "id": "mozn92rhufemai",
+      "name": "Sucuk Izgara (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 770,
+      "tag": "",
+      "available": true,
+      "image": "sucukizgara.webp"
+    },
+    {
+      "id": "mozna9u70ucge7",
+      "name": "Kuymak (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 420,
+      "tag": "",
+      "available": true,
+      "image": "kuymak.webp"
+    },
+    {
+      "id": "moznbq3d9ecnxq",
+      "name": "Sahanda Yumurta (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 190,
+      "tag": "",
+      "available": true,
+      "image": "sahandayumurta.webp"
+    },
+    {
+      "id": "mozndl9hua1p0s",
+      "name": "Kaşarlı Omlet (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 260,
+      "tag": "",
+      "available": true,
+      "image": "kasarliomlet.webp"
+    },
+    {
+      "id": "moznhx61lbnrb1",
+      "name": "Sebzeli Omlet (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 260,
+      "tag": "",
+      "available": true,
+      "image": "sebzeliomlet.webp"
+    },
+    {
+      "id": "moznmushlfrrzl",
+      "name": "Menemen (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 280,
+      "tag": "",
+      "available": true,
+      "image": "menemen.webp"
+    },
+    {
+      "id": "moznpjfr0rt6nt",
+      "name": "Sucuklu Yumurta (Ekstra)",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 375,
+      "tag": "",
+      "available": true,
+      "image": "sucukluyumurta.webp"
+    },
+    {
+      "id": "mozo3c6l071i6p",
+      "name": "Söğüş Kahvaltılık",
+      "categoryId": "mozmxty530ov6d",
+      "desc": "",
+      "price": 180,
+      "tag": "",
+      "available": true,
+      "image": "soguskahvaltilik.webp"
+    }
+  ],
+  "exportedAt": "2026-05-10T11:17:36.160Z",
+  "version": 2
+}
