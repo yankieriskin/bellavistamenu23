@@ -1,0 +1,249 @@
+{
+  "settings": {
+    "name": "Bella Vista",
+    "subtitle": "",
+    "logo": "",
+    "logoLetter": "M",
+    "heroVideo": "",
+    "colorPrimary": "#000000",
+    "colorAccent": "#ffffff",
+    "phone": "123",
+    "address": "abc",
+    "currency": "₺",
+    "password": "admin123"
+  },
+  "categories": [
+    {
+      "id": "c1",
+      "name": "Başlangıçlar",
+      "icon": "🥗",
+      "parentId": null,
+      "image": "",
+      "order": 0
+    },
+    {
+      "id": "c2",
+      "name": "Ana Yemekler",
+      "icon": "🍽️",
+      "parentId": null,
+      "image": "",
+      "order": 1
+    },
+    {
+      "id": "c2a",
+      "name": "Etler",
+      "icon": "🥩",
+      "parentId": "c2",
+      "image": "",
+      "order": 0
+    },
+    {
+      "id": "c2b",
+      "name": "Tavuk",
+      "icon": "🍗",
+      "parentId": "c2",
+      "image": "",
+      "order": 1
+    },
+    {
+      "id": "c2c",
+      "name": "Mantı & Hamur İşi",
+      "icon": "🥟",
+      "parentId": "c2",
+      "image": "",
+      "order": 2
+    },
+    {
+      "id": "c3",
+      "name": "Tatlılar",
+      "icon": "🍰",
+      "parentId": null,
+      "image": "",
+      "order": 2
+    },
+    {
+      "id": "c4",
+      "name": "İçecekler",
+      "icon": "🥤",
+      "parentId": null,
+      "image": "",
+      "order": 3
+    },
+    {
+      "id": "c4a",
+      "name": "Sıcak İçecekler",
+      "icon": "☕",
+      "parentId": "c4",
+      "image": "",
+      "order": 0
+    },
+    {
+      "id": "c4b",
+      "name": "Soğuk İçecekler",
+      "icon": "🧊",
+      "parentId": "c4",
+      "image": "",
+      "order": 1
+    },
+    {
+      "id": "moyuadwk0zmc5l",
+      "name": "abcdeneme",
+      "icon": "",
+      "parentId": null,
+      "image": "",
+      "order": 4
+    },
+    {
+      "id": "moyvh713o6jsbl",
+      "name": "Yemeksel",
+      "icon": "",
+      "parentId": null,
+      "image": "",
+      "order": 5
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "categoryId": "c1",
+      "name": "Mevsim Salata",
+      "desc": "Taze yeşillikler, domates, salatalık ve özel sos",
+      "price": 85,
+      "image": "",
+      "tag": "",
+      "available": true
+    },
+    {
+      "id": "p2",
+      "categoryId": "c1",
+      "name": "Humus Tabağı",
+      "desc": "Geleneksel tarif, zeytinyağı ve sumak ile",
+      "price": 95,
+      "image": "",
+      "tag": "Vegan",
+      "available": true
+    },
+    {
+      "id": "p3",
+      "categoryId": "c2a",
+      "name": "Kuzu Pirzola",
+      "desc": "Köz patates ve mevsim sebzeleri ile",
+      "price": 380,
+      "image": "",
+      "tag": "Şefin Önerisi",
+      "available": true
+    },
+    {
+      "id": "p4",
+      "categoryId": "c2a",
+      "name": "Bonfile",
+      "desc": "Izgara, mantar soslu",
+      "price": 420,
+      "image": "",
+      "tag": "",
+      "available": true
+    },
+    {
+      "id": "p5",
+      "categoryId": "c2b",
+      "name": "Izgara Tavuk",
+      "desc": "Marine edilmiş, pilav ve sebze ile",
+      "price": 220,
+      "image": "",
+      "tag": "Popüler",
+      "available": true
+    },
+    {
+      "id": "p6",
+      "categoryId": "c2b",
+      "name": "Tavuk Şiş",
+      "desc": "Lavaş, soğan ve sumak ile",
+      "price": 240,
+      "image": "",
+      "tag": "",
+      "available": true
+    },
+    {
+      "id": "p7",
+      "categoryId": "c2c",
+      "name": "Et Mantısı",
+      "desc": "El açması, yoğurtlu naneli sos ile",
+      "price": 195,
+      "image": "",
+      "tag": "Şefin Önerisi",
+      "available": true
+    },
+    {
+      "id": "p8",
+      "categoryId": "c2c",
+      "name": "Su Böreği",
+      "desc": "Beyaz peynir veya kıyma",
+      "price": 150,
+      "image": "",
+      "tag": "",
+      "available": true
+    },
+    {
+      "id": "p9",
+      "categoryId": "c3",
+      "name": "Künefe",
+      "desc": "Antep fıstıklı, sıcak servis",
+      "price": 120,
+      "image": "",
+      "tag": "",
+      "available": true
+    },
+    {
+      "id": "p10",
+      "categoryId": "c3",
+      "name": "Sütlaç",
+      "desc": "Fırında, tarçın ile",
+      "price": 80,
+      "image": "",
+      "tag": "",
+      "available": true
+    },
+    {
+      "id": "p11",
+      "categoryId": "c4a",
+      "name": "Türk Kahvesi",
+      "desc": "Geleneksel, lokum eşliğinde",
+      "price": 45,
+      "image": "",
+      "tag": "",
+      "available": true
+    },
+    {
+      "id": "p12",
+      "categoryId": "c4a",
+      "name": "Çay",
+      "desc": "Demli, ince belli bardakta",
+      "price": 20,
+      "image": "",
+      "tag": "",
+      "available": true
+    },
+    {
+      "id": "p13",
+      "categoryId": "c4b",
+      "name": "Limonata",
+      "desc": "Taze sıkılmış, naneli",
+      "price": 55,
+      "image": "",
+      "tag": "Yeni",
+      "available": true
+    },
+    {
+      "id": "p14",
+      "categoryId": "c4b",
+      "name": "Ayran",
+      "desc": "Geleneksel, köpüklü",
+      "price": 25,
+      "image": "",
+      "tag": "",
+      "available": true
+    }
+  ],
+  "exportedAt": "2026-05-09T21:49:40.436Z",
+  "version": 2
+}
