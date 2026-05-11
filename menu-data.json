@@ -93,6 +93,14 @@
       "parentId": "mozmb4heh1pac1",
       "image": "salatalarlogo.webp",
       "order": 3
+    },
+    {
+      "id": "mp03k79tns0z36",
+      "name": "Arasıcaklar",
+      "icon": "",
+      "parentId": "mozmb4heh1pac1",
+      "image": "arasicaklarlogo.webp",
+      "order": 4
     }
   ],
   "products": [
@@ -311,7 +319,7 @@
       "name": "Pancar Turşusu",
       "categoryId": "mozpd0elfultgu",
       "desc": "",
-      "price": 274.99,
+      "price": 275,
       "tag": "",
       "available": true,
       "image": "meze10.webp"
@@ -399,7 +407,7 @@
     {
       "id": "mp02hnhyd1xsbk",
       "name": "Roka Salata",
-      "categoryId": "mozmb4heh1pac1",
+      "categoryId": "mp02byla171yji",
       "desc": "",
       "price": 325,
       "tag": "",
@@ -419,7 +427,7 @@
     {
       "id": "mp02irkmp2bxyd",
       "name": "Gavurdağ Salata",
-      "categoryId": "mozmb4heh1pac1",
+      "categoryId": "mp02byla171yji",
       "desc": "",
       "price": 400,
       "tag": "",
@@ -455,8 +463,138 @@
       "tag": "",
       "available": true,
       "image": "bonfilesalata.webp"
+    },
+    {
+      "id": "mp03rewrz3g2qq",
+      "name": "Patates Tava",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 290,
+      "tag": "",
+      "available": true,
+      "image": "patateskizartmasi.webp"
+    },
+    {
+      "id": "mp03thzkfhzyma",
+      "name": "Sigara Böreği",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 275,
+      "tag": "",
+      "available": true,
+      "image": "sigaraboregi.webp"
+    },
+    {
+      "id": "mp03u6w3uw70nd",
+      "name": "Paçanga Böreği",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 295,
+      "tag": "",
+      "available": true,
+      "image": "pacangaboregi.webp"
+    },
+    {
+      "id": "mp03whsndj23yq",
+      "name": "Sosis Tava",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 480,
+      "tag": "",
+      "available": true,
+      "image": "sosistava.webp"
+    },
+    {
+      "id": "mp03y0g6mxtnk1",
+      "name": "Mantar Izgara Peynirli",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 445,
+      "tag": "",
+      "available": true,
+      "image": "mantarizgarapeynirli.webp"
+    },
+    {
+      "id": "mp0406dh07u4au",
+      "name": "Hamburger 130gr",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 575,
+      "tag": "",
+      "available": true,
+      "image": "hamburger.webp"
+    },
+    {
+      "id": "mp041kpk9wctwx",
+      "name": "Kalamar Tava",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 780,
+      "tag": "",
+      "available": true,
+      "image": "kalamartava.webp"
+    },
+    {
+      "id": "mp042dp9f4m3n8",
+      "name": "Kalamar Izgara",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 780,
+      "tag": "",
+      "available": true,
+      "image": "kalamarizgara.webp"
+    },
+    {
+      "id": "mp045bhikyleiw",
+      "name": "Tereyağlı Karides",
+      "categoryId": "mozmb4heh1pac1",
+      "desc": "",
+      "price": 780,
+      "tag": "",
+      "available": true,
+      "image": "tereyaglikarides.webp"
+    },
+    {
+      "id": "mp062xr3mqku4u",
+      "name": "Karides Güveç",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 780,
+      "tag": "",
+      "available": true,
+      "image": "karidesguvec.webp"
+    },
+    {
+      "id": "mp0652x6o6nbkr",
+      "name": "Pastırmalı Humus",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 395,
+      "tag": "",
+      "available": true,
+      "image": "pastirmalihumus.webp"
+    },
+    {
+      "id": "mp066634j9qacg",
+      "name": "Bira Tabağı",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "Çıtır Tavuk, Soğan Halkası, Patates Kızartması, Peynir Kroket, Sosis",
+      "price": 525,
+      "tag": "",
+      "available": true,
+      "image": "biratabagi.webp"
+    },
+    {
+      "id": "mp067gauhrfykq",
+      "name": "Fırında Patlıcan",
+      "categoryId": "mp03k79tns0z36",
+      "desc": "",
+      "price": 380,
+      "tag": "",
+      "available": true,
+      "image": "firindapatlican.webp"
     }
   ],
-  "exportedAt": "2026-05-10T18:07:35.455Z",
+  "exportedAt": "2026-05-10T20:12:51.673Z",
   "version": 2
 }
